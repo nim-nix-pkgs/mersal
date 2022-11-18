@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1668748872,
-        "narHash": "sha256-txODzmKvLE6CVTlZI+24or9q8UejvpKjnuI4b5008GE=",
+        "lastModified": 1668754640,
+        "narHash": "sha256-gjihDHNxnLt/KZLJin98co6kXzGv79ZmgRtdwVqgS9U=",
         "owner": "nim-nix-pkgs",
         "repo": "mersal",
-        "rev": "8ab43e31593aee0fbeac48dd7663e4eabe4bd419",
+        "rev": "cd664131b8de7952f0fd86fae33bb4c571e7ddab",
         "type": "github"
       },
       "original": {
@@ -209,11 +209,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1668748872,
-        "narHash": "sha256-txODzmKvLE6CVTlZI+24or9q8UejvpKjnuI4b5008GE=",
+        "lastModified": 1668754640,
+        "narHash": "sha256-gjihDHNxnLt/KZLJin98co6kXzGv79ZmgRtdwVqgS9U=",
         "owner": "nim-nix-pkgs",
         "repo": "mersal",
-        "rev": "8ab43e31593aee0fbeac48dd7663e4eabe4bd419",
+        "rev": "cd664131b8de7952f0fd86fae33bb4c571e7ddab",
         "type": "github"
       },
       "original": {
